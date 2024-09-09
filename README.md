@@ -1,4 +1,4 @@
-# User Management Dashboard
+# User Management Table
 
 This project is a simple web application that displays user data from the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/) in a table format with advanced filtering options. The application uses **Redux** for state management and is fully typed with **TypeScript**.
 
